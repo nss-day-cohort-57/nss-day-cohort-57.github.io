@@ -18,12 +18,12 @@
             "firstName": "Ben",
             "lastName": "Shelton",
             "reelThemIn": "<p>Deleted code is debugged code.</p>",
-            "bio": "",
-            "github": "https://github.com/benshelton32",
+            "bio": "<p>Problem solving and technology have always caught my interest, and I've had a high aptitude for both. After spending years employing and honing those skills in customer-facing tech support for a software company, I decided that I wanted to explore a long-held curiosity with the development side and enrolled in Nashville Software School. What I found was a fast-paced environment that challenged me to put my collaborative, interpersonal, quick learning, and problem-solving skills to the test. It is easily one of the most rewarding experiences I've had in my life and leads me to look forward to the continuous learning and skill improvement opportunities that life as a software developer brings with it.</p> <p>Outside of coding, you can typically find me watching sports, attending concerts, or getting in a round of disc golf. </p>",
+            "github": "https: //github.com/benshelton32",
             "linkedIn": "https://www.linkedin.com/in/benshelton32/",
             "portfolio": "",
             "email": "benshelton32@gmail.com",
-            "proImg": "",
+            "proImg": "ben.jpg",
             "funImg": ""
         },
         {
@@ -31,8 +31,7 @@
             "firstName": "Brittany",
             "lastName": "Mangum",
             "reelThemIn": "<p>git commit -m \"A foo walks into a bar, takes a look around, and says “Hello World.”\"</p>",
-            "bio": "",
-            "github": "https: //github.com/bmangum8",
+            "bio": "<p>I am a lifelong and adaptable learner. After working in education for years, I decided to start a new career. I decided to pursue Web development  because it combines analytical thinking skills with social skills, and gives me the opportunity to have a career that fits my personal interests and abilities. </p> <p>I know I made the right decision to attend NSS, and I am looking forward to my first job as a software developer. I will  graduate from NSS on November 4, 2022.</p>",
             "linkedIn": "https://www.linkedin.com/in/brittany-t-mangum/",
             "portfolio": "",
             "email": "brittanyturner8@gmail.com",
@@ -62,7 +61,7 @@
             "linkedIn": "https://www.linkedin.com/in/mboro19/",
             "portfolio": "",
             "email": "mboro19@gmail.com",
-            "proImg": "",
+            "proImg": "david.jpg",
             "funImg": ""
         },
         {
@@ -75,7 +74,7 @@
             "linkedIn": "www.linkedin.com/in/evanm4183",
             "portfolio": "",
             "email": "evanm4183@gmail.com",
-            "proImg": "evan.png",
+            "proImg": "evan.jpg",
             "funImg": ""
         },
         {
@@ -100,7 +99,7 @@
             "linkedIn": "https://www.linkedin.com/in/joseph-maifeld/",
             "portfolio": "",
             "email": "josephmaifeld@gmail.com",
-            "proImg": "",
+            "proImg": "joe.jpg",
             "funImg": ""
         },
         {
@@ -177,7 +176,7 @@
             "github": "https://github.com/SAS7178",
             "linkedIn": "https://www.linkedin.com/in/-stephen-a-smith-/",
             "email": "Stephen.A.SmithDEV@gmail.com",
-            "proImg": "",
+            "proImg": "stephen.jpg",
             "funImg": ""
         },
         {
