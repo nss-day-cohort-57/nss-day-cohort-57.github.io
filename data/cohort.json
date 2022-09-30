@@ -47,7 +47,7 @@
             "bio": "<p>I wrote my first line of code when I was thirteen, and knew from that moment on that coding was the right path for me, after graduating Highschool I spent the last few years working in Nashville. I discovered Nashville Software School and knew it would suit my learning style perfectly, I decided to take the leap into a new career and sign up, Software Development is the perfect direction for me to go with my problem solving abilities, and love for continued learning.</p>",
             "github": "https://github.com/crate1011",
             "linkedIn": "https://www.linkedin.com/in/christian-suriano/",
-            "portfolio": null,
+            "portfolio": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
             "email": "ChristianCSuriano@gmail.com",
             "proImg": "christian.jpg",
             "funImg": "christian.jpg"
@@ -114,7 +114,7 @@
             "linkedIn": "https://www.linkedin.com/in/mason-thieman/",
             "portfolio": null,
             "email": "masonthieman@gmail.com",
-            "proImg": "",
+            "proImg": "mason.jpg",
             "funImg": ""
         },
         {
@@ -127,7 +127,7 @@
             "linkedIn": "https://www.linkedin.com/in/noahnicholson/",
             "portfolio": null,
             "email": "noahnicholson239@yahoo.com",
-            "proImg": "",
+            "proImg": "noah.jpg",
             "funImg": ""
         },
         {
@@ -153,7 +153,7 @@
             "linkedIn": "https://www.linkedin.com/in/downey-ryan/",
             "portfolio": null,
             "email": "downeyryan1705@gmail.com",
-            "proImg": "",
+            "proImg": "ryan.jpg",
             "funImg": ""
         },
         {
@@ -192,7 +192,7 @@
             "linkedIn": "https://www.linkedin.com/in/sutherland-seals/",
             "portfolio": "https://github.com/sseals1/Goal _Keeper_App",
             "email": "sseals1@gmail.com",
-            "proImg": "",
+            "proImg": "suth.jpg",
             "funImg": ""
         },
         {
@@ -218,7 +218,7 @@
             "linkedIn": "https://www.linkedin.com/in/wilson-bell-1187aa24a/",
             "portfolio": null,
             "email": "wilsontbell@gmail.com",
-            "proImg": "",
+            "proImg": "wilson.jpg",
             "funImg": ""
         },
         {
@@ -231,7 +231,7 @@
             "linkedIn": "https://www.linkedin.com/in/zach-smith2993/",
             "portfolio": null,
             "email": "zach2993@gmail.com",
-            "proImg": "",
+            "proImg": "zach.jpg",
             "funImg": ""
         }
     ]
