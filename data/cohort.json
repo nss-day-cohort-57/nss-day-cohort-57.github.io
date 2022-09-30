@@ -8,10 +8,10 @@
             "bio": "<p>I was first introduced to programming by my dad. We would watch tutorials and do small projects together. During high school, I worked at Chick-fil-a and another job as an electrician's assistant. Eventually, I decided to make programming my career. I was eager to get started and was excited to hear that NSS would be an opportunity to get me on that path sooner and without accumulating large debts. Since joining NSS I have learned so much and I am excited to continue my learning among other developers in the workplace.</p>",
             "github": "https://github.com/redrawdawn",
             "linkedIn": "https://www.linkedin.com/in/andrewward615/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "redrawdawn@gmail.com",
             "proImg": "andrew.png",
-            "funImg": ""
+            "funImg": "andrew.png"
         },
         {
             "id": 2,
@@ -21,10 +21,10 @@
             "bio": "<p>Problem solving and technology have always caught my interest, and I've had a high aptitude for both. After spending years employing and honing those skills in customer-facing tech support for a software company, I decided that I wanted to explore a long-held curiosity with the development side and enrolled in Nashville Software School. What I found was a fast-paced environment that challenged me to put my collaborative, interpersonal, quick learning, and problem-solving skills to the test. It is easily one of the most rewarding experiences I've had in my life and leads me to look forward to the continuous learning and skill improvement opportunities that life as a software developer brings with it.</p> <p>Outside of coding, you can typically find me watching sports, attending concerts, or getting in a round of disc golf. </p>",
             "github": "https: //github.com/benshelton32",
             "linkedIn": "https://www.linkedin.com/in/benshelton32/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "benshelton32@gmail.com",
             "proImg": "ben.jpg",
-            "funImg": ""
+            "funImg": "ben.jpg"
         },
         {
             "id": 3,
@@ -32,11 +32,12 @@
             "lastName": "Mangum",
             "reelThemIn": "<p>git commit -m \"A foo walks into a bar, takes a look around, and says “Hello World.”\"</p>",
             "bio": "<p>I am a lifelong and adaptable learner. After working in education for years, I decided to start a new career. I decided to pursue Web development  because it combines analytical thinking skills with social skills, and gives me the opportunity to have a career that fits my personal interests and abilities. </p> <p>I know I made the right decision to attend NSS, and I am looking forward to my first job as a software developer. I will  graduate from NSS on November 4, 2022.</p>",
+            "github": "https://github.com/bmangum8",
             "linkedIn": "https://www.linkedin.com/in/brittany-t-mangum/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "brittanyturner8@gmail.com",
             "proImg": "brittany.jpg",
-            "funImg": ""
+            "funImg": "brittany.jpg"
         },
         {
             "id": 4,
@@ -49,7 +50,7 @@
             "portfolio": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
             "email": "ChristianCSuriano@gmail.com",
             "proImg": "christian.jpg",
-            "funImg": ""
+            "funImg": "christian.jpg"
         },
         {
             "id": 5,
@@ -59,10 +60,10 @@
             "bio": "My early career was in sales and finance until the crash of 2008, forcing me to veer into manufacturing for the past decade. Although manufacturing was an excellent provider for myself and my family, I decided it was time to pursue my passion for technology and (more specifically) software development. I enrolled in Nashville Software School in May of 2022, and never looked back.",
             "github": "https://github.com/mboro19",
             "linkedIn": "https://www.linkedin.com/in/mboro19/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "mboro19@gmail.com",
             "proImg": "david.jpg",
-            "funImg": ""
+            "funImg": "david.jpg"
         },
         {
             "id": 6,
@@ -72,10 +73,10 @@
             "bio": "<p>My interest in programming was sparked when I had to take a couple of computer science courses as part of my degree. I really enjoyed using programming languages to solve problems and build applications from scratch. From my experience in these courses, I decided that I wanted to pursue a career in tech. I felt that I had just scratched the surface in college, so I turned to NSS to further my education. Since starting at NSS, I have grown tremendously as a developer by learning new technologies and solving new problems every day.</p>",
             "github": "https://github.com/evanm4183",
             "linkedIn": "www.linkedin.com/in/evanm4183",
-            "portfolio": "",
+            "portfolio": null,
             "email": "evanm4183@gmail.com",
             "proImg": "evan.jpg",
-            "funImg": ""
+            "funImg": "evan.jpg"
         },
         {
             "id": 7,
@@ -85,9 +86,10 @@
             "bio": "<p>Before beginning my journey at NSS, I was working for a nonprofit called, Raise the Roof Academy. I love helping others whether it is through missionary work or creating. When a friend introduced me to software development, I realized that the tech field would allow me to continue my love for helping others but in a more creative way.</p>",
             "github": "https://github.com/hchickey",
             "linkedIn": "https://www.linkedin.com/in/hchickey96/",
+            "portfolio": null,
             "email": "hchickey96@gmail.com",
             "proImg": "haley.jpg",
-            "funImg": ""
+            "funImg": "haley.jpg"
         },
         {
             "id": 8,
@@ -97,10 +99,10 @@
             "bio": "<p>After spending over ten years working professionally in the culinary field I felt the desire to pursue career change. For the longest time it felt like breaking into the developer field was inaccessible. I spent so long researching different paths to the role I wanted and finally found NSS after multiple recommendations and haven't looked back. I love and have needed the constant challenge. The need consistently learn and evolve will help drive my growth as a developer and I can't wait to see what it brings to my life and career. </p>",
             "github": "https://github.com/MasterBlaster3",
             "linkedIn": "https://www.linkedin.com/in/joseph-maifeld/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "josephmaifeld@gmail.com",
             "proImg": "joe.jpg",
-            "funImg": ""
+            "funImg": "joe.jpg"
         },
         {
             "id": 9,
@@ -110,7 +112,7 @@
             "bio": "<p>Ever since grade school, math, science, and other problem-solving subjects have been my forte. I was first exposed to coding when I began my mechatronics engineering program. I was so enthralled that I, instead, pursued and acquired a bachelor's degree in computer science from Middle Tennessee State University. Two years after graduation and the pandemic, I decided that I wanted more hands-on experience and to expand upon the knowledge gained from university. A friend and recent graduate, then, referred me to NSS and it has been a wonderful experience. I am very excited to make my contributions to world of software development.  </p>",
             "github": "https://github.com/masonthieman",
             "linkedIn": "https://www.linkedin.com/in/mason-thieman/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "masonthieman@gmail.com",
             "proImg": "mason.jpg",
             "funImg": ""
@@ -123,7 +125,7 @@
             "bio": " I always had an interest in learning how to code. After finishing 2 years in college I wanted to try something new. I had many friends who had went to NSS and had nothing but good things to say about the school. I have learned so much in these past few months and am excited to keep growing in this career. ",
             "github": "https://gist.github.com/NoahNicholson",
             "linkedIn": "https://www.linkedin.com/in/noahnicholson/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "noahnicholson239@yahoo.com",
             "proImg": "noah.jpg",
             "funImg": ""
@@ -136,10 +138,10 @@
             "bio": "<p>I have long enjoyed playing with and on computers. In high school I greatly enjoyed my BASIC programming class, and used that info to program my graphing calculator to run the quadratic equation for me. Never thought about how I could turn that into a career until many years later. After a decade of retail work, helping customers figure out what they want, and another decade working as a repair tech I decided to get into IT. Remembering my exposure to coding in high school led me to NSS.</p>",
             "github": "https://github.com/Robert-427",
             "linkedIn": "https://www.linkedin.com/in/robert-m-parker/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "robert.m.parker.j@gmail.com",
             "proImg": "robert.jpg",
-            "funImg": ""
+            "funImg": "robert.jpg"
         },
         {
             "id": 12,
@@ -149,7 +151,7 @@
             "bio": "<p>I am a Full Stack Web Developer. I enjoy creating game modifications in my free time, and am always excited to learn something new.</p>",
             "github": "https://github.com/rjdny",
             "linkedIn": "https://www.linkedin.com/in/downey-ryan/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "downeyryan1705@gmail.com",
             "proImg": "ryan.jpg",
             "funImg": ""
@@ -165,7 +167,7 @@
             "portfolio": "https://github.com/slandonlewis/getStrong",
             "email": "terrorzone03@gmail.com",
             "proImg": "seth.JPG",
-            "funImg": ""
+            "funImg": "seth.JPG"
         },
         {
             "id": 14,
@@ -175,9 +177,10 @@
             "bio": "<p>Since childhood I've been an adventerous person, naturally think outside the box. I love finding innovative ways to utilize logistics and technology for efficiency, whether a computer, electrical control system, or the logistics of an assembly line. Whenever I have the opportunity to start a challenge or am asked to help with something, I enjoy finding ways I can contribute, making the problem solving process a growing experience that solves the problem efficiently. I've found leveraging web development resources and find solutions turn every challenge into fun ways of learning. After many years in the electrical industry, I'm ecstatic to have been able to directly apply my passion for learning to software development. I have developed an impeccable attention to detail, effective ways to cultivate team cohesion, a tenacious work ethic, and excellent troubleshooting skills. While pondering the next steps in my career, software development became the obvious direction for my future as it mirrors my love for continuous learning and allows me to continually sharpen my skills to troubleshoot. When I'm not coding I enjoy exercise and experiencing nature. Thankfully, my active lifestyle has been a bonus in maintaining good energy levels, and low stress while in front of the screen. Other than that I just enjoy relaxing, movies, video games and spending time with friends and family.</p>",
             "github": "https://github.com/SAS7178",
             "linkedIn": "https://www.linkedin.com/in/-stephen-a-smith-/",
+            "portfolio": null,
             "email": "Stephen.A.SmithDEV@gmail.com",
             "proImg": "stephen.jpg",
-            "funImg": ""
+            "funImg": "stephen.jpg"
         },
         {
             "id": 15,
@@ -200,10 +203,10 @@
             "bio": "I am a crafty and creative person who has always had a love of science and learning. I love creating new things and finding new solutions to problems. ",
             "github": "https://github.com/tiffanyautumn",
             "linkedIn": "https://www.linkedin.com/in/t-autumnsmith/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "tiffanyautumnsmith@gmail.com",
             "proImg": "TiffanySmith.jpg",
-            "funImg": ""
+            "funImg": "TiffanySmith.jpg"
         },
         {
             "id": 17,
@@ -213,7 +216,7 @@
             "bio": "<p>I had no prior experience with coding prior to having NSS recommended to me by friends that thought I would do well at it. One of the main things that drew me to the program was growing up doing a lot of mechanical work on my family's farm and always enjoying the trial and error process of diagnosing and solving a problem or making something work that previously didn't. Coding provides much of that same experience, you're presented with an issue and you use the tools and knowledge at your disposal to come up with a logical solution. I've greatly enjoyed the variety of personalities that exist in the Software Development world and cannot wait to meet more and contribute my own unique insight to a team.</p>",
             "github": "https://github.com/WilsonTBell",
             "linkedIn": "https://www.linkedin.com/in/wilson-bell-1187aa24a/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "wilsontbell@gmail.com",
             "proImg": "wilson.jpg",
             "funImg": ""
@@ -226,7 +229,7 @@
             "bio": "<p>I have always had a passion for building, fixing, and learning how things work. Eventually working my way into a maintenance technician role in automotive manufacturing  allowed me to pursue these passions. But, when I was introduced to the idea of becoming a software developer, it was like a light bulb went off. This was the way to not only pursue my passions, but do it in a way that had all the other boxes checked that I was  looking for in a long term career. Becoming a Software Developer was my new goal.  I believe I can now achieve that, and I am looking forward to building, fixing, and learning new things as a developer.</p> ",
             "github": "https://github.com/zachtsmith",
             "linkedIn": "https://www.linkedin.com/in/zach-smith2993/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "zach2993@gmail.com",
             "proImg": "zach.jpg",
             "funImg": ""
