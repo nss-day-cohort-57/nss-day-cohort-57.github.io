@@ -115,7 +115,7 @@
             "portfolio": null,
             "email": "masonthieman@gmail.com",
             "proImg": "mason.jpg",
-            "funImg": ""
+            "funImg": "mason.jpg"
         },
         {
             "id": 10,
@@ -128,7 +128,7 @@
             "portfolio": null,
             "email": "noahnicholson239@yahoo.com",
             "proImg": "noah.jpg",
-            "funImg": ""
+            "funImg": "noah.jpg"
         },
         {
             "id": 11,
@@ -154,7 +154,7 @@
             "portfolio": null,
             "email": "downeyryan1705@gmail.com",
             "proImg": "ryan.jpg",
-            "funImg": ""
+            "funImg": "ryan.jpg"
         },
         {
             "id": 13,
@@ -193,7 +193,7 @@
             "portfolio": "https://github.com/sseals1/Goal _Keeper_App",
             "email": "sseals1@gmail.com",
             "proImg": "suth.jpg",
-            "funImg": ""
+            "funImg": "suth.jpg"
         },
         {
             "id": 16,
@@ -219,7 +219,7 @@
             "portfolio": null,
             "email": "wilsontbell@gmail.com",
             "proImg": "wilson.jpg",
-            "funImg": ""
+            "funImg": "wilson.jpg"
         },
         {
             "id": 18,
@@ -232,7 +232,7 @@
             "portfolio": null,
             "email": "zach2993@gmail.com",
             "proImg": "zach.jpg",
-            "funImg": ""
+            "funImg": "zach.jpg"
         }
     ]
 }
